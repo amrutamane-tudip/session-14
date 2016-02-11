@@ -1,0 +1,87 @@
+/* 
+    Document   : customStyle
+    Created on : 2/2/2016
+    Author     : Amruta
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+
+
+
+.navbar-default{
+    border: 0;
+}
+.navbar-default .container-fluid{
+    background-color: #f7941d;width: 100%
+}
+.collapse .navbar-nav{
+    background-color: #f7941d
+}
+.collapse .navbar-nav>li>a{
+    position:relative;
+    bottom: 0;
+    padding-left:60px;
+    padding-right:60px;
+    font-family: Verdana;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.collapse .navbar-nav>li>a:hover{
+
+    color:#f7941d ;
+    text-decoration: none;
+    display: block;
+    background-color: white;
+    border-radius:4px;
+}
+
+.collapse .navbar-nav>li>a:active{
+
+    text-decoration: none;
+    display: block;
+    color: #f7941d;
+    background-color: white;
+    border-radius: 4px;
+}
+
+#banner{
+    position: relative;height: 400px;width: 100%;margin-top:-40px;background-size:cover;}
+	
+	.places{
+	text-align:right;
+	color:black;
+	font-size:15px;
+	margin-left:19px;
+	
+	}
+	
+	#placesName{padding:10px;bottom-border-bottom:1px dashed #ccc }
+.footer{
+    background-color: #000000;bottom: 0;position: relative;height: 80%;}
+
+#bottom-nav{
+    background-color: #000000;position: relative;margin-top: 10px;margin-left: -35px;
+}
+#bottom{
+    position: relative;padding-left: 18px;padding-top: 15px;font-size: 12px;color: white
+}
+#li-bottom{
+    display: inline;border-right-style: solid;border-right-width: 1px;color: white
+}
+#a-bottom {
+    text-decoration: none;
+   color: white 
+}
+#a-bottom :hover{
+    text-decoration: none;
+   color: white ;
+   
+}
+
