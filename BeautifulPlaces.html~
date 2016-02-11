@@ -105,7 +105,7 @@ places to visit around the world, before you die. See which places our readers l
 <img src="images/The Waikato River.jpg" alt="HTML5 Icon" style="width:100%;height:300px;">
 
 </div>
-<footer style="position:fixed;background-color:blue;width:100%;color:#fff;text-align:center;padding:10px 0px;">
+<footer style="position:fixed;background-color:blue;width:100%;height:20px;padding:0px;color:#fff;text-align:center;padding:10px 0px;">
 Designed By Amruta Mane
 </footer>
 
